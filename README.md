@@ -19,7 +19,7 @@
 13. streaming
 14. texturing
 
-### Chapters (Source codes of each chapter in the book)
+### ChaptersCodes (Source codes of each chapter in the book)
 
 #### Part I: Fundamental
 
